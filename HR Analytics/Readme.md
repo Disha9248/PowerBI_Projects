@@ -56,8 +56,7 @@ Dataset contains total 38 columns namely :
 
 ## Dashboard Previews
 
-### Home Page -
-![HR Dashboard](https://github.com/user-attachments/assets/af3ab332-96eb-4bb6-8298-39a25037898b)<br><br>
+![HR Dashboard](https://github.com/user-attachments/assets/7ef55e17-97ef-4751-a211-90fc3d7d57b7)<br><br>
 
 
 ## Conclusion
