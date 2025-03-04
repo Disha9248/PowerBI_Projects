@@ -13,7 +13,7 @@ This Power BI dashboard provides insights into employee attrition—the rate at 
 
 
 ## Project Level: Beginner
-This project is a beginners level project.To get me familiar with the basics of Pandas and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used tableau to solve different tasks that are commonly encountered in data analytics.<br><br>
+This project is a beginners level project.To get me familiar with the basics of Power BI and to gain knowledge on how to handle real-world data analysis problems. I have worked with a small dataset and had used Power BI to solve different tasks that are commonly encountered in data analytics.<br><br>
 
 
 ## Dataset
