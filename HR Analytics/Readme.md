@@ -32,6 +32,13 @@ Dataset contains total 38 columns namely :
 - **Attrition & Retention** - Attrition, DistanceFromHome, TrainingTimesLastYear, StandardHours, Over18, EmployeeCount, EmployeeNumber
 <br><br>
   
+## Business Problems
+
+- Which job roles have the highest attrition?
+- What is the relationship between employee tenure and attrition? At what point do employees leave the most?
+- Which age group experiences the highest attrition?
+- What are the attrition by salary slab?<br><br>
+
 
 ## Dashboard Features 
 
@@ -42,8 +49,8 @@ Dataset contains total 38 columns namely :
 
 ## Tools Used  
 
-- **Power BI** - (Data visualization & dashboard creation)
-- **Microsoft Excel** - (Data planning & preprossesing)<br><br>
+- **Power BI** - Data visualization & dashboard creation
+- **Microsoft Excel** - Data planning & preprossesing<br><br>
 
 
 ## How To Use  
@@ -62,3 +69,12 @@ Dataset contains total 38 columns namely :
 ## Conclusion
 This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
 
+- Out of 1,470 employees, 237 have left, indicating a notable turnover rate.
+- The 26-35 age group (116 employees) has the highest attrition, followed by the 18-25 age group (44 employees).
+- Employees with around 1 year of experience (59 employees) show the highest attrition, indicating early-stage disengagement.
+- The majority of employees leaving are in the lowest salary bracket (up to 5K), accounting for 163 out of 237 attritions.
+- Laboratory Technicians (62), Sales Executives (57), and Research Scientists (47) face the highest attrition.
+- Employees from Life Sciences (38%) and Medical (27%) have the highest attrition.
+
+
+  
