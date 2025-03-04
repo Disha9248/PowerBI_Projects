@@ -62,5 +62,3 @@ Dataset contains total 38 columns namely :
 ## Conclusion
 This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
 
-
-
