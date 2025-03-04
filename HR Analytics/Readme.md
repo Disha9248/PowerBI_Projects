@@ -65,16 +65,18 @@ Dataset contains total 38 columns namely :
 
 ![HR Dashboard](https://github.com/user-attachments/assets/7ef55e17-97ef-4751-a211-90fc3d7d57b7)<br><br>
 
-
-## Conclusion
-This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+## Finding
 
 - Out of 1,470 employees, 237 have left, indicating a notable turnover rate.
 - The 26-35 age group (116 employees) has the highest attrition, followed by the 18-25 age group (44 employees).
 - Employees with around 1 year of experience (59 employees) show the highest attrition, indicating early-stage disengagement.
 - The majority of employees leaving are in the lowest salary bracket (up to 5K), accounting for 163 out of 237 attritions.
 - Laboratory Technicians (62), Sales Executives (57), and Research Scientists (47) face the highest attrition.
-- Employees from Life Sciences (38%) and Medical (27%) have the highest attrition.
+- Employees from Life Sciences (38%) and Medical (27%) have the highest attrition.<br><br>
+
+## Conclusion
+This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+
 
 
   
