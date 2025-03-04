@@ -65,7 +65,7 @@ Dataset contains total 38 columns namely :
 
 ![HR Dashboard](https://github.com/user-attachments/assets/7ef55e17-97ef-4751-a211-90fc3d7d57b7)<br><br>
 
-## Finding
+## Findings
 
 - Out of 1,470 employees, 237 have left, indicating a notable turnover rate.
 - The 26-35 age group (116 employees) has the highest attrition, followed by the 18-25 age group (44 employees).
@@ -75,7 +75,7 @@ Dataset contains total 38 columns namely :
 - Employees from Life Sciences (38%) and Medical (27%) have the highest attrition.<br><br>
 
 ## Conclusion
-This project provides an excellent opportunity for me as a beginners to gain tableau knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
+This project provides an excellent opportunity for me as a beginners to gain Power BI knowledge to solve practical data problems. By working through these, I gain hands-on experience with Visulization, graphs, date manipulation, and conditional logic.
 
 
 
